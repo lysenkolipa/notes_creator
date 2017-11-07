@@ -356,3 +356,12 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 
+.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/note-react.iml
+.idea/workspace.xml
+index.html
+script.js
+style.css
